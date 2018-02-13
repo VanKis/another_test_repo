@@ -1,2 +1,2 @@
-/**/*.tex 
-docs/some.tex
+docs/*.tex 
+*.tex
