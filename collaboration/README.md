@@ -1,2 +1,2 @@
-testing collaboration
-test from collaborator
+TESTING COLLABORATION
+TEST FROM COLLABORATOR
